@@ -1,0 +1,6 @@
+streamlit
+bcrypt
+pandas
+numpy
+scikit-learn
+joblib
